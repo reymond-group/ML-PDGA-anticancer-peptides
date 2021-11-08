@@ -1,0 +1,10 @@
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_0.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_1.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_2.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_3.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_4.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_5.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_6.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_7.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_8.ipynb
+jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute 01_run_PDGA_9.ipynb
