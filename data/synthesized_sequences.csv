@@ -1,0 +1,34 @@
+Sequence,Set,Length,isActive,isNotHemolytic
+WFKRILKYLKKLV,RNN synthesized,13,Active,Hemolytic
+KNFKKLMKKVASVL,RNN synthesized,14,Inactive,Not Hemolytic
+KWRSKIKKIMRTFK,RNN synthesized,14,Inactive,Not Hemolytic
+FAKKFFKKFAKFAFK,RNN synthesized,15,Active,Not Hemolytic
+GLLGRLAKLLANS,RNN synthesized,13,Inactive,Not Hemolytic
+SFSKWMGKLKNIFKK,RNN synthesized,15,Inactive,Not Hemolytic
+WLNALKKILGHLIRH,RNN synthesized,15,Active,Hemolytic
+LLRHCLRRIRDRLV,RNN synthesized,14,Inactive,Not Hemolytic
+KYLKYLVRLVGRLYR,RNN synthesized,15,Active,Hemolytic
+VFRQWQKIMRRLVRR,RNN synthesized,15,Inactive,Not Hemolytic
+SISRLWHSLLRHLLH,RNN synthesized,15,Active,Not Hemolytic
+FAARILRAWFRFLRR,RNN synthesized,15,Active,Hemolytic
+WKRIRVIIRWIRKYY,RNN synthesized,15,Active,Hemolytic
+NEWKKIKKIIKIVK,PDGA synthesized,14,Inactive,Not Hemolytic
+VVNNWKKKIIKVIK,PDGA synthesized,14,Inactive,Not Hemolytic
+DWHKIGKKVIKVIK,PDGA synthesized,14,Inactive,Not Hemolytic
+KWRQLGKKIIKVAK,PDGA synthesized,14,Inactive,Not Hemolytic
+KWNNILGKLGKLAR,PDGA synthesized,14,Inactive,Not Hemolytic
+NVVGRLGKIVKIVK,PDGA synthesized,14,Inactive,Not Hemolytic
+NPKVFLKKIIKVVK,PDGA synthesized,14,Inactive,Not Hemolytic
+NWKKILGKICR,PDGA synthesized,11,Inactive,Not Hemolytic
+KNWKKIIKKVVK,PDGA synthesized,12,Inactive,Not Hemolytic
+ADVWKKVIKVIK,PDGA synthesized,12,Inactive,Not Hemolytic
+ANWKKILKRLCDI,PDGA synthesized,13,Active,Hemolytic
+WRGKIGKIIKAVK,PDGA synthesized,13,Inactive,Not Hemolytic
+NWKKILGRLGEKG,PDGA synthesized,13,Inactive,Not Hemolytic
+KNWKKIVHDIKNS,PDGA synthesized,13,Inactive,Not Hemolytic
+ANWKKWIGKVIKLVK,PDGA synthesized,15,Active,Hemolytic
+VNVWKKIGRLVKIVK,PDGA synthesized,15,Inactive,Not Hemolytic
+NWKKILGKILDHLAC,PDGA synthesized,15,Active,Hemolytic
+NWKKILGKVIDDMKM,PDGA synthesized,15,Inactive,Not Hemolytic
+NWKKIRKLGKVVKKI,PDGA synthesized,15,Inactive,Not Hemolytic
+DKFSEKLGKIIKIVK,PDGA synthesized,15,Inactive,Not Hemolytic
